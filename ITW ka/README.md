@@ -1,4 +1,4 @@
-# # Data Structures & Algorithms Repository  
+# Data Structures & Algorithms Repository  
 
 This repository contains solutions and implementations of various Data Structures and Algorithms (DSA) topics, along with a **Report Card Generator** program.  
 
